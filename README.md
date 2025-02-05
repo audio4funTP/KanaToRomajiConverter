@@ -10,7 +10,7 @@ $converter = new KanaToRomajiConverter();
 
 echo $converter->convert('こんにちは'); //example // Output: konnichiwa
 
-Author: Pierre Tran from iVoicesoft.com ; Trieuphu05 from Truongca.com
+Author: Pierre Tran from www.iVoicesoft.com ; Trieuphu05 from Truongca.com
 
 Try Example at: https://www.ivoicesoft.com/japan-to-latin.php
 
