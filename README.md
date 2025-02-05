@@ -8,7 +8,7 @@ include("japan-to-latin-class.php");
 
 $converter = new KanaToRomajiConverter();
 
-echo $converter->convert('こんにちは'); //example // Output: konnichiwa
+echo $converter->convert('アマゾン'); //example // Output: amazon
 
 Author: Pierre Tran from www.iVoicesoft.com ; Trieuphu05 from Truongca.com
 
