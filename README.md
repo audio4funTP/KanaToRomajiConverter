@@ -10,7 +10,8 @@ $converter = new KanaToRomajiConverter();
 
 echo $converter->convert('アマゾン'); //example // Output: amazon
 
+# DEMO
 Author: Pierre Tran from www.iVoicesoft.com ; Trieuphu05 from Truongca.com
 
-Try Example at: https://www.ivoicesoft.com/japan-to-latin.php
+Try demo at: https://www.ivoicesoft.com/japan-to-latin.php
 
